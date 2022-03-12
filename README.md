@@ -11,8 +11,7 @@ I follow new technologies and acquire new information, and in my spare time I li
 
 Skills: HTML / CSS / JAVASCRIPT
 
-- 🔭 I’m currently working on Front-end Development 
-- 🌱 I’m currently learning Javascript, PHP, Java 
+- 🔭 I’m currently working on Front-end Development  
 - 📫 How to reach me: me@kerimcanyektek.com 
 
 
