@@ -1,15 +1,19 @@
 ### Hi there 👋, my name is Kerimcan.
 #### Front-end Developer | Social Media Manager | Digital Content Creator
-I am 21 years old. I graduated from Akdeniz University Computer Programming Department.
-I have been developing myself in this field since I decided to become a Front-end Developer. I have been dealing with web design and social media management for about 2 years. KeroKOD.com Software and Technology, which I founded while continuing my education.
-I produce content on the Blog Site and manage my own project, GelecekinKodu.com Next Generation Software Developer Platform.
-I don't get bored sitting in front of the computer and I learn something new every day.
+
+After successfully completing my university education, I decided to develop myself in the field of front-end web development. I have been developing myself in this field for more than 3 years.
+
+I meticulously carry out my projects in accordance with modern web standards. The issues I pay much attention to while developing projects are conformity to w3c standards, browser compatibility, search engine compatibility etc.
+
+My areas of expertise include technologies such as HTML5, CSS3, JavaScript. In addition, I actively use Node.js, React, Redux.
+
+I follow new technologies and acquire new information, and in my spare time I like to share what I have learned by blogging.
 
 Skills: HTML / CSS / JAVASCRIPT
 
 - 🔭 I’m currently working on Front-end Development 
 - 🌱 I’m currently learning Javascript, PHP, Java 
-- 📫 How to reach me: iletisim@kerimcanyektek.com 
+- 📫 How to reach me: me@kerimcanyektek.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kerimcanyektek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerimcanyektek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kerimcanyektekcom/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kerimcan_yektek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kerimcanyektek.com)  
