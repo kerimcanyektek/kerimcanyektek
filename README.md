@@ -17,7 +17,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kerimcanyektek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerimcanyektek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kerimcanyektekcom/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kerimcan_yektek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kerimcanyektek.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimcanyektek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimcanyektek)](https://github.com/kerimcanyektek)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kerimcanyektek&show_icons=true)  
 
