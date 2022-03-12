@@ -9,7 +9,7 @@ My areas of expertise include technologies such as HTML5, CSS3, JavaScript. In a
 
 I follow new technologies and acquire new information, and in my spare time I like to share what I have learned by blogging.
 
-Skills: HTML / CSS / JAVASCRIPT
+Skills: HTML / CSS / JAVASCRIPT / REACT
 
 - 🔭 I’m currently working on Front-end Development  
 - 📫 How to reach me: me@kerimcanyektek.com 
