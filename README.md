@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kerimcan.
-#### Front-end Developer | Social Media Manager | Digital Content Creator
+#### Front-end Developer
 
 After successfully completing my university education, I decided to develop myself in the field of front-end web development. I have been developing myself in this field for more than 3 years.
 
