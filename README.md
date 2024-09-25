@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kerimcanyektek.com](https://kerimcanyektek.com)
 
-- 📝 I regularly write articles on [https://kerimcanyektek.com/blog](https://kerimcanyektek.com/blog)
+- 📝 I regularly write articles on [https://kerimcanyektek.com/blog](https://kerimcanyektek.com/blog) and [https://patika.dev/blog](https://patika.dev/blog)
 
 - 📫 How to reach me **kerimcan@grodea.com**
 
