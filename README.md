@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kerimcan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Founder & CEO | GRODEA](https://grodea.com)
+- 🔭 #OpenToWork
 
 - 👨‍💻 All of my projects are available at [https://kerimcanyektek.com](https://kerimcanyektek.com)
 
 - 📝 I regularly write articles on [https://kerimcanyektek.com/blog](https://kerimcanyektek.com/blog) and [https://patika.dev/blog](https://patika.dev/blog)
 
-- 📫 How to reach me **kerimcan@grodea.com**
+- 📫 How to reach me **me@kerimcanyektek.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
