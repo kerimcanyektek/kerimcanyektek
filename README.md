@@ -5,7 +5,7 @@
 
 I have been actively working on web projects for over 3 years, meticulously ensuring that my projects comply with modern web standards. During the development process, I pay particular attention to W3C standards, browser compatibility, high performance, and search engine optimization (SEO).
 
-My areas of expertise include WordPress, HTML, CSS (CSS Preprocessors, Bootstrap, Tailwind), JavaScript, TypeScript, React, Next.js, Node.js, Styled-Components, ANT Design, and GraphQL. Additionally, I work on micro frontend architecture and the development of modular structures.
+My areas of expertise include WordPress, <strong>>HTML, CSS (CSS Preprocessors, Bootstrap, Tailwind), JavaScript, TypeScript, React, Next.js, Node.js, Styled-Components, ANT Design, and GraphQL.</strong Additionally, I work on micro frontend architecture and the development of modular structures.
 
 I have experience in the e-commerce sector, where I have developed SEO-friendly, high-performance, and scalable solutions. I am proficient in managing test processes, debugging, and improving software quality using Cypress and manual testing tools. I actively use DevOps tools such as Netlify, Vercel, and GitLab and have knowledge of CI/CD pipeline management.
 
