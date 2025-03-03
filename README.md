@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kerimcan</h1>
 <h3 align="center">Frontend Developer #Opentowork</h3>
 
-<p align="center">I have been actively working on web projects for over 3 years, meticulously ensuring that my projects comply with modern web standards. During the development process, I pay particular attention to W3C standards, browser compatibility, high performance, and search engine optimization (SEO).
+<p align="center">
+
+I have been actively working on web projects for over 3 years, meticulously ensuring that my projects comply with modern web standards. During the development process, I pay particular attention to W3C standards, browser compatibility, high performance, and search engine optimization (SEO).
 
 My areas of expertise include WordPress, HTML, CSS (CSS Preprocessors, Bootstrap, Tailwind), JavaScript, TypeScript, React, Next.js, Node.js, Styled-Components, ANT Design, and GraphQL. Additionally, I work on micro frontend architecture and the development of modular structures.
 
