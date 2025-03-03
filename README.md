@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kerimcan</h1>
 <h3 align="center">Frontend Developer #Opentowork</h3>
+<p align="center">I have been actively working on web projects for over 3 years, meticulously ensuring that my projects comply with modern web standards. During the development process, I pay particular attention to W3C standards, browser compatibility, high performance, and search engine optimization (SEO).
+
+My areas of expertise include WordPress, HTML, CSS (CSS Preprocessors, Bootstrap, Tailwind), JavaScript, TypeScript, React, Next.js, Node.js, Styled-Components, ANT Design, and GraphQL. Additionally, I work on micro frontend architecture and the development of modular structures.
+
+I have experience in the e-commerce sector, where I have developed SEO-friendly, high-performance, and scalable solutions. I am proficient in managing test processes, debugging, and improving software quality using Cypress and manual testing tools. I actively use DevOps tools such as Netlify, Vercel, and GitLab and have knowledge of CI/CD pipeline management.
+
+Furthermore, I have experience in project management and team coordination with Agile & Scrum methodologies, and I continue to improve myself in this field. In the future, I aim to specialize in technical leadership and process management, focusing on a Team Lead / Scrum Master role.
+
+I am passionate about following new technologies, continuously learning, and improving myself.</p>
+
 
 - 🔭 #OpenToWork
 
