@@ -4,15 +4,15 @@
 
 <p align="center">
 
-I have been actively working on web projects for over 3 years, meticulously ensuring that my projects comply with modern web standards. During the development process, I pay particular attention to W3C standards, browser compatibility, high performance, and search engine optimization (SEO).
+I am a Frontend Developer with hands-on experience in building scalable, user-focused, and performance-driven web applications. My journey started in 2021, when I joined the GittiGidiyor Technology Academy, an intensive software engineering program led by senior engineers. After completing the program with strong performance, I began my professional career at GittiGidiyor as a Jr. Frontend Developer, where I worked on the Product Page Team, contributing to the development of modern architectures with Next.js, TypeScript, GraphQL, and atomic design principles. I played an active role in delivering features like product comparison and product reviews, while also helping establish a centralized Backend-for-Frontend (BFF) layer to optimize performance and scalability.
 
-My areas of expertise include WordPress, <strong>HTML, CSS (CSS Preprocessors, Bootstrap, Tailwind), JavaScript, TypeScript, React, Next.js, Node.js, Styled-Components, ANT Design, and GraphQL.</strong> Additionally, I work on micro frontend architecture and the development of modular structures.
+After that, I continued my career at SmartMessage, where I gained exposure to enterprise-scale projects. As part of a Scrum team, I developed user interfaces using React, Ant Design, and modern frontend practices, further strengthening my skills in agile workflows, cross-functional collaboration, and maintaining high-quality code in large-scale corporate environments.
 
-I have experience in the e-commerce sector, where I have developed SEO-friendly, high-performance, and scalable solutions. I am proficient in managing test processes, debugging, and improving software quality using Cypress and manual testing tools. I actively use DevOps tools such as Netlify, Vercel, and GitLab and have knowledge of CI/CD pipeline management.
+In addition to my corporate experience, I also worked on freelance projects under Grodea, providing corporate web design services and technical support/maintenance for various brands. I built SEO-friendly, modern websites using React, Next.js, WordPress, and Webflow, while offering technical guidance and ensuring long-term digital reliability for businesses.
 
-Furthermore, I have experience in project management and team coordination with Agile & Scrum methodologies, and I continue to improve myself in this field. In the future, I aim to specialize in technical leadership and process management, focusing on a Team Lead / Scrum Master role.
+💡 Throughout my journey, I have been passionate about modern frontend architectures, clean code, and user experience. I enjoy turning complex ideas into intuitive digital products and continuously improve myself by following industry best practices and emerging technologies.
 
-I am passionate about following new technologies, continuously learning, and improving myself.</p>
+🔍 I am currently seeking full-time opportunities where I can leverage my technical expertise, creativity, and problem-solving skills to contribute to innovative projects and grow within a forward-thinking team.</p>
 
 
 
