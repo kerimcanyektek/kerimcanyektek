@@ -20,7 +20,7 @@ In addition to my corporate experience, I also worked on freelance projects unde
 
 - 📝 I regularly write articles on [https://kerimcanyektek.com/blog](https://kerimcanyektek.com/blog) and [https://patika.dev/blog](https://patika.dev/blog)
 
-- 📫 How to reach me **me@kerimcanyektek.com**
+- 📫 How to reach me **hello@kerimcanyektek.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
