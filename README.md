@@ -11,13 +11,9 @@
 
 I am a Frontend Developer with hands-on experience in building scalable, user-focused, and performance-driven web applications. My journey started in 2021, when I joined the GittiGidiyor Technology Academy, an intensive software engineering program led by senior engineers. After completing the program with strong performance, I began my professional career at GittiGidiyor as a Jr. Frontend Developer, where I worked on the Product Page Team, contributing to the development of modern architectures with Next.js, TypeScript, GraphQL, and atomic design principles.
 
-After that, I continued my career at SmartMessage, where I gained exposure to enterprise-scale projects. As part of a Scrum team, I developed user interfaces using React, Ant Design, and modern frontend practices, further strengthening my skills in agile workflows, cross-functional collaboration, and maintaining high-quality code in large-scale corporate environments.
+After that, I continued my career at SmartMessage, where I gained exposure to enterprise-scale projects. As part of a Scrum team, I developed user interfaces using React, Ant Design, and modern frontend practices, further strengthening my skills in agile workflows, cross-functional collaboration, and maintaining high-quality code in large-scale corporate environments. In addition to my corporate experience, I also worked on freelance projects under Grodea, providing corporate web design services and technical support/maintenance for various brands. I built SEO-friendly, modern websites using React, Next.js, WordPress, and Webflow, while offering technical guidance and ensuring long-term digital reliability for businesses.
 
-In addition to my corporate experience, I also worked on freelance projects under Grodea, providing corporate web design services and technical support/maintenance for various brands. I built SEO-friendly, modern websites using React, Next.js, WordPress, and Webflow, while offering technical guidance and ensuring long-term digital reliability for businesses.
-
-💡 Throughout my journey, I have been passionate about modern frontend architectures, clean code, and user experience. I enjoy turning complex ideas into intuitive digital products and continuously improve myself by following industry best practices and emerging technologies.
-
-🔍 I am currently seeking full-time opportunities where I can leverage my technical expertise, creativity, and problem-solving skills to contribute to innovative projects and grow within a forward-thinking team.
+Throughout my journey, I have been passionate about modern frontend architectures, clean code, and user experience. I enjoy turning complex ideas into intuitive digital products and continuously improve myself by following industry best practices and emerging technologies.
 
 ---
 
