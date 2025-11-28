@@ -28,7 +28,7 @@ Throughout my journey, I have been passionate about modern frontend architecture
 
 <table>
 <tbody>
-<tr><td><a href="https://www.kerokod.com/javascript-icinde-css-yazmak-styled-components/"><img width="140px" src="https://kerimcanyektek.com/blog-images/1.svg"></a></td>
+<tr><td><a href="https://www.kerokod.com/javascript-icinde-css-yazmak-styled-components/"><img width="140px" src="https://i.hizliresim.com/skmooc5.png"></a></td>
 <td><a href="https://www.kerokod.com/javascript-icinde-css-yazmak-styled-components/">Javascript İçinde CSS Yazmak: Styled Components</a><br/>8 Feb 2024</td></tr>
 <tr><td><a href="https://www.kerokod.com/css-metodolojileri-daha-temiz-ve-daha-surdurulebilir/"><img width="140px" src="https://kerimcanyektek.com/blog-images/2.svg"></a></td>
 <td><a href="https://www.kerokod.com/css-metodolojileri-daha-temiz-ve-daha-surdurulebilir/">CSS Metodolojileri: Daha Temiz ve Daha Sürdürülebilir</a><br/>5 Feb 2024</td></tr>
